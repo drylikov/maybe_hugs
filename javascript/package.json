@@ -1,0 +1,26 @@
+{
+  "name": "maybe_hugs",
+  "version": "1.0.0",
+  "description": "Conditional hugging implementation for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drylikov/maybe_hugs.git"
+  },
+  "keywords": [
+    "hugs",
+    "cute"
+  ],
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/drylikov/maybe_hugs/issues"
+  },
+  "homepage": "https://github.com/drylikov/maybe_hugs#readme",
+  "devDependencies": {
+    "tap": "^1.3.2"
+  }
+}
